@@ -1,0 +1,1 @@
+python C:\Users\IriKa\Documents\python\tf\Lib\site-packages\tensorflow\tensorboard\tensorboard.py --logdir=C:\Users\IriKa\Documents\python\video-activity-recognition\data\logs

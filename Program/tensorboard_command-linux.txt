@@ -1,0 +1,2 @@
+python3 /usr/local/lib/python3.5/dist-packages/tensorflow/tensorboard/tensorboard.py --logdir=.
+
